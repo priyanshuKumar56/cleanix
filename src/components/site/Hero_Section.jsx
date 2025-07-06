@@ -10,13 +10,13 @@ function HeroSection() {
       <div className="container relative z-10 text-white ">
         <div className="max-w-3xl text-center m-auto">
           <h2 className="text-2xl md:text-3xl font-medium mb-4  uppercase tracking-wide">
-            The Best Cleaning Service Ever!
+            The Best Cleaning Service Ever
           </h2>
           <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
             We Are <span className="">Certified</span> Company
           </h1>
           <p className="text-lg md:text-xl mb-8 text-gray-200 leading-relaxed">
-            Our best-in-class WordPress solution, with additional optimization
+            Our best-in-class WordPress solution, with additional optimizations
             to make running a WooCommerce online storefronting and straight
             forward so you can.
           </p>
@@ -34,7 +34,7 @@ function HeroSection() {
                   />
                 ))}
               </div>
-              <span className="text-gray-200">5-star rated service</span>
+              <span className="text-gray-200">5 star rated service</span>
             </div>
           </div>
         </div>
